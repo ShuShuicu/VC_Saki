@@ -1,3 +1,11 @@
+/**
+ * Saki GUI菜单
+ * @link https://github.com/YuiNijika
+ * 
+ * 致敬传奇跑路王XMDS(github.com/XMDS)
+ * 等他什么时候不装死了还钱后就删掉
+ */
+
 /// <reference path="../.config/vc.d.ts" />
 import { KeyCode } from '../.config/enums';
 import { FPSOverlay } from './src/Saki_FPSOverlay';

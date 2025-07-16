@@ -2,8 +2,6 @@
 
 基于 CLEO Redux 的简单功能脚本 for ViceCity
 
-特别感谢[小米电视(@XMDS)](https://github.com/xmds)
-
 ## 快速开始
 
 1.首先安装 CLEO Redux  
